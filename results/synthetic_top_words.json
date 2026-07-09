@@ -1,0 +1,494 @@
+{
+  "eng_swh_beam_M1.jsonl": [
+    {
+      "word": "ya",
+      "count": 11164
+    },
+    {
+      "word": "na",
+      "count": 9863
+    },
+    {
+      "word": "wa",
+      "count": 5854
+    },
+    {
+      "word": "kwa",
+      "count": 5620
+    },
+    {
+      "word": "ni",
+      "count": 2768
+    },
+    {
+      "word": "katika",
+      "count": 2174
+    },
+    {
+      "word": "za",
+      "count": 1988
+    },
+    {
+      "word": "kwamba",
+      "count": 1454
+    },
+    {
+      "word": "kuwa",
+      "count": 1333
+    },
+    {
+      "word": "la",
+      "count": 1259
+    },
+    {
+      "word": "kwenye",
+      "count": 1110
+    },
+    {
+      "word": "cha",
+      "count": 1109
+    },
+    {
+      "word": "kama",
+      "count": 1108
+    },
+    {
+      "word": "wakati",
+      "count": 1014
+    },
+    {
+      "word": "juu",
+      "count": 906
+    },
+    {
+      "word": "au",
+      "count": 872
+    },
+    {
+      "word": "lakini",
+      "count": 872
+    },
+    {
+      "word": "zaidi",
+      "count": 843
+    },
+    {
+      "word": "sana",
+      "count": 706
+    },
+    {
+      "word": "Kwa",
+      "count": 673
+    }
+  ],
+  "eng_swh_beam_M10.jsonl": [
+    {
+      "word": "ya",
+      "count": 113033
+    },
+    {
+      "word": "na",
+      "count": 100296
+    },
+    {
+      "word": "wa",
+      "count": 59393
+    },
+    {
+      "word": "kwa",
+      "count": 57169
+    },
+    {
+      "word": "ni",
+      "count": 28598
+    },
+    {
+      "word": "katika",
+      "count": 22131
+    },
+    {
+      "word": "za",
+      "count": 20159
+    },
+    {
+      "word": "kwamba",
+      "count": 14738
+    },
+    {
+      "word": "kuwa",
+      "count": 13840
+    },
+    {
+      "word": "la",
+      "count": 12790
+    },
+    {
+      "word": "kama",
+      "count": 11312
+    },
+    {
+      "word": "kwenye",
+      "count": 11277
+    },
+    {
+      "word": "cha",
+      "count": 11262
+    },
+    {
+      "word": "wakati",
+      "count": 10429
+    },
+    {
+      "word": "juu",
+      "count": 8925
+    },
+    {
+      "word": "au",
+      "count": 8877
+    },
+    {
+      "word": "lakini",
+      "count": 8850
+    },
+    {
+      "word": "zaidi",
+      "count": 8578
+    },
+    {
+      "word": "sana",
+      "count": 7174
+    },
+    {
+      "word": "Kwa",
+      "count": 6827
+    }
+  ],
+  "eng_swh_dbs_M10.jsonl": [
+    {
+      "word": "ya",
+      "count": 114772
+    },
+    {
+      "word": "na",
+      "count": 102563
+    },
+    {
+      "word": "wa",
+      "count": 61475
+    },
+    {
+      "word": "kwa",
+      "count": 58761
+    },
+    {
+      "word": "ni",
+      "count": 30067
+    },
+    {
+      "word": "katika",
+      "count": 22787
+    },
+    {
+      "word": "za",
+      "count": 21329
+    },
+    {
+      "word": "kwamba",
+      "count": 15808
+    },
+    {
+      "word": "kuwa",
+      "count": 15051
+    },
+    {
+      "word": "la",
+      "count": 14572
+    },
+    {
+      "word": "cha",
+      "count": 13006
+    },
+    {
+      "word": "kwenye",
+      "count": 12049
+    },
+    {
+      "word": "kama",
+      "count": 11567
+    },
+    {
+      "word": "wakati",
+      "count": 10676
+    },
+    {
+      "word": "lakini",
+      "count": 9287
+    },
+    {
+      "word": "au",
+      "count": 8937
+    },
+    {
+      "word": "zaidi",
+      "count": 8766
+    },
+    {
+      "word": "sana",
+      "count": 7940
+    },
+    {
+      "word": "vya",
+      "count": 7549
+    },
+    {
+      "word": "juu",
+      "count": 7511
+    }
+  ],
+  "eng_swh_mbr_M10.jsonl": [
+    {
+      "word": "ya",
+      "count": 110034
+    },
+    {
+      "word": "na",
+      "count": 98387
+    },
+    {
+      "word": "wa",
+      "count": 57307
+    },
+    {
+      "word": "kwa",
+      "count": 55766
+    },
+    {
+      "word": "ni",
+      "count": 28792
+    },
+    {
+      "word": "katika",
+      "count": 22418
+    },
+    {
+      "word": "za",
+      "count": 20807
+    },
+    {
+      "word": "kuwa",
+      "count": 14882
+    },
+    {
+      "word": "kwamba",
+      "count": 13026
+    },
+    {
+      "word": "la",
+      "count": 12673
+    },
+    {
+      "word": "kwenye",
+      "count": 11621
+    },
+    {
+      "word": "kama",
+      "count": 11573
+    },
+    {
+      "word": "cha",
+      "count": 11220
+    },
+    {
+      "word": "wakati",
+      "count": 9790
+    },
+    {
+      "word": "lakini",
+      "count": 9203
+    },
+    {
+      "word": "au",
+      "count": 8612
+    },
+    {
+      "word": "zaidi",
+      "count": 8013
+    },
+    {
+      "word": "sana",
+      "count": 7405
+    },
+    {
+      "word": "juu",
+      "count": 6813
+    },
+    {
+      "word": "vya",
+      "count": 6348
+    }
+  ],
+  "eng_swh_top_k_M10.jsonl": [
+    {
+      "word": "ya",
+      "count": 111530
+    },
+    {
+      "word": "na",
+      "count": 103755
+    },
+    {
+      "word": "kwa",
+      "count": 60070
+    },
+    {
+      "word": "wa",
+      "count": 59582
+    },
+    {
+      "word": "ni",
+      "count": 29123
+    },
+    {
+      "word": "katika",
+      "count": 23586
+    },
+    {
+      "word": "za",
+      "count": 21800
+    },
+    {
+      "word": "kuwa",
+      "count": 16528
+    },
+    {
+      "word": "kwamba",
+      "count": 13483
+    },
+    {
+      "word": "la",
+      "count": 13478
+    },
+    {
+      "word": "cha",
+      "count": 12508
+    },
+    {
+      "word": "kwenye",
+      "count": 12306
+    },
+    {
+      "word": "kama",
+      "count": 11757
+    },
+    {
+      "word": "lakini",
+      "count": 9505
+    },
+    {
+      "word": "wakati",
+      "count": 9448
+    },
+    {
+      "word": "au",
+      "count": 8807
+    },
+    {
+      "word": "sana",
+      "count": 8146
+    },
+    {
+      "word": "zaidi",
+      "count": 8145
+    },
+    {
+      "word": "vya",
+      "count": 6916
+    },
+    {
+      "word": "kazi",
+      "count": 6738
+    }
+  ],
+  "eng_swh_top_p_M10.jsonl": [
+    {
+      "word": "ya",
+      "count": 111409
+    },
+    {
+      "word": "na",
+      "count": 100709
+    },
+    {
+      "word": "wa",
+      "count": 59486
+    },
+    {
+      "word": "kwa",
+      "count": 56972
+    },
+    {
+      "word": "ni",
+      "count": 29258
+    },
+    {
+      "word": "katika",
+      "count": 22219
+    },
+    {
+      "word": "za",
+      "count": 21349
+    },
+    {
+      "word": "kuwa",
+      "count": 15259
+    },
+    {
+      "word": "kwamba",
+      "count": 13988
+    },
+    {
+      "word": "la",
+      "count": 13494
+    },
+    {
+      "word": "cha",
+      "count": 12232
+    },
+    {
+      "word": "kwenye",
+      "count": 12040
+    },
+    {
+      "word": "kama",
+      "count": 11555
+    },
+    {
+      "word": "wakati",
+      "count": 9672
+    },
+    {
+      "word": "lakini",
+      "count": 9407
+    },
+    {
+      "word": "au",
+      "count": 8700
+    },
+    {
+      "word": "zaidi",
+      "count": 7954
+    },
+    {
+      "word": "sana",
+      "count": 7557
+    },
+    {
+      "word": "vya",
+      "count": 7035
+    },
+    {
+      "word": "kazi",
+      "count": 6625
+    }
+  ]
+}

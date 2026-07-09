@@ -1,0 +1,7 @@
+model,src_lang,tgt_lang,eval_set,method,M,sacrebleu,chrf_pp
+facebook/nllb-200-distilled-600M,eng_Latn,swh_Latn,flores_devtest,beam,1,33.9746,60.0174
+facebook/nllb-200-distilled-600M,eng_Latn,swh_Latn,flores_devtest,beam,10,33.9746,60.0174
+facebook/nllb-200-distilled-600M,eng_Latn,swh_Latn,flores_devtest,top_p,10,27.4088,54.6139
+facebook/nllb-200-distilled-600M,eng_Latn,swh_Latn,flores_devtest,top_k,10,20.5219,49.4868
+facebook/nllb-200-distilled-600M,eng_Latn,swh_Latn,flores_devtest,dbs,10,32.8181,59.0987
+facebook/nllb-200-distilled-600M,eng_Latn,swh_Latn,flores_devtest,mbr,10,28.3837,55.6017

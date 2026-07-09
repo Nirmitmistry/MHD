@@ -1,0 +1,7 @@
+file,method,M,total_rows,unique_sources,unique_targets,duplicate_rate,avg_target_length,unique_target_words,avg_hypotheses_per_src,self_bleu
+eng_swh_beam_M1.jsonl,beam,1,10000,10000,9992,0.0008,21.27,35715,1.0,
+eng_swh_beam_M10.jsonl,beam,10,100000,10000,84813,0.1519,21.55,50165,10.0,95.3689
+eng_swh_dbs_M10.jsonl,dbs,10,100000,10000,87858,0.1214,21.92,66424,10.0,94.8665
+eng_swh_mbr_M10.jsonl,mbr,10,100000,10000,99911,0.0009,20.84,113703,10.0,70.5242
+eng_swh_top_k_M10.jsonl,top_k,10,100000,10000,99375,0.0062,21.61,149807,10.0,45.6976
+eng_swh_top_p_M10.jsonl,top_p,10,100000,10000,96022,0.0398,21.13,110080,10.0,67.8891

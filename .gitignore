@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Dataset files
+data/raw/*
+data/processed/*
+data/flores/*
+data/synthetic/*
+
+# Keep empty directory markers when used
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/flores/.gitkeep
+!data/synthetic/.gitkeep
+
+# Model checkpoints and generated results
+models/*
+results/predictions/*
+
+# Hugging Face and secrets
+.env
+*.token
+
+random.txt

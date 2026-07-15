@@ -1,0 +1,9 @@
+{
+  "vocab_size": 32000,
+  "pad_id": 0,
+  "unk_id": 1,
+  "bos_id": 2,
+  "eos_id": 3,
+  "max_length": 128,
+  "spm_model": "c:\\Users\\nirmi\\Desktop\\MHD2\\notebooks\\notebooks\\models\\shared_spm.model"
+}

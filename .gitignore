@@ -1,27 +1,65 @@
-# Virtual environment
-venv/
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
 
-# Notebook cache
+# ── Virtual environments ──────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────
 .ipynb_checkpoints/
 
-# Dataset files
-data/raw/*
-data/processed/*
-data/flores/*
-data/synthetic/*
-
-# Keep empty directory markers when used
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/flores/.gitkeep
-!data/synthetic/.gitkeep
-
-# Model checkpoints and generated results
-models/*
-results/predictions/*
-
-# Hugging Face and secrets
+# ── Secrets / tokens ─────────────────────────────────────────────────────
 .env
 *.token
 
+# ── Archives / zips ──────────────────────────────────────────────────────
+*.zip
+
+# ── PDFs ─────────────────────────────────────────────────────────────────
+*.pdf
+
+# ── Raw / processed data (large, regenerable) ────────────────────────────
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# ── FLORES data (downloaded) ─────────────────────────────────────────────
+data/flores/*
+!data/flores/.gitkeep
+
+# ── Synthetic translations (generated) ───────────────────────────────────
+data/synthetic/*
+!data/synthetic/.gitkeep
+
+# ── Model checkpoints (large binary) ─────────────────────────────────────
+notebooks/models/**/*.pt
+
+# ── SentencePiece binaries (binary, same across all runs) ────────────────
+notebooks/models/**/*.model
+notebooks/models/**/*.vocab
+
+# ── Dataset cache (regenerable PyTorch tensors) ──────────────────────────
+notebooks/models/cache/*.pt
+
+# ── Evaluation prediction outputs (regenerable, excluded after CSV unignore)
+# Note: these must appear AFTER the !*.csv rule below to take effect
+
+
+# ── Misc ─────────────────────────────────────────────────────────────────
 random.txt
+
+# ── TRACK these explicitly (overrides above where needed) ────────────────
+# Logs, metrics, results — small and meaningful to version
+!notebooks/models/**/*.csv
+!notebooks/models/**/*.json
+# Cache JSON/text (FLORES raw + SPM corpus — useful reference)
+!notebooks/models/cache/*.json
+!notebooks/models/cache/*.txt
+
+# ── Re-ignore prediction outputs (override the !*.csv unignore above) ────
+notebooks/models/**/*_preds.csv
+notebooks/models/**/*_hyp.txt

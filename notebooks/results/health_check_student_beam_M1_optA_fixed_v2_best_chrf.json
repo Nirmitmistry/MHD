@@ -1,0 +1,24 @@
+{
+  "run_id": "student_beam_M1_optA_fixed_v2_best_chrf",
+  "n": 40,
+  "empty_pct": 0.0,
+  "avg_token_len": 16.3,
+  "unique_ratio": 0.85,
+  "greedy_beam_agree": 0.0,
+  "top_3_common": [
+    [
+      "Kwa bahati mbaya sana kwa ajili ya miaka mingi.",
+      6
+    ],
+    [
+      "Kwa bahati mbaya sana.",
+      2
+    ],
+    [
+      "Kwa bahati mbaya, kwa ajili ya watu ambao wana uwezekano mkubwa wa miaka mingi.",
+      1
+    ]
+  ],
+  "health_gate_passed": true,
+  "fail_reasons": []
+}

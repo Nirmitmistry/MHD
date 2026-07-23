@@ -1,0 +1,20 @@
+{
+  "run_id": "student_beam_M10_optA_fixed_v2_best_chrf",
+  "timestamp": "2026-07-14T12:48:50.965863Z",
+  "checkpoint": "/kaggle/input/datasets/nirmitmistry/beamm10/beam_M10/student_beam_M10_optA_fixed_v2_best_chrf.pt",
+  "spm_model": "/kaggle/input/datasets/nirmitmistry/beamm10/beam_M10/shared_spm.model",
+  "vocab_info": "/kaggle/input/datasets/nirmitmistry/beamm10/beam_M10/vocab_info.json",
+  "decode_tag": "beam5_lp0p6_max127",
+  "eval_limit": null,
+  "health_passed": true,
+  "scores": {
+    "dev": {
+      "bleu": 14.140974108225143,
+      "chrf_pp": 40.30683557595068
+    },
+    "devtest": {
+      "bleu": 13.453176109359214,
+      "chrf_pp": 39.810569154919136
+    }
+  }
+}

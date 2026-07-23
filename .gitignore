@@ -63,3 +63,10 @@ random.txt
 # ── Re-ignore prediction outputs (override the !*.csv unignore above) ────
 notebooks/models/**/*_preds.csv
 notebooks/models/**/*_hyp.txt
+
+*.pdf
+*.csv
+*.jsonl
+*.log
+*.out
+*.pt

@@ -1,0 +1,24 @@
+{
+  "run_id": "student_beam_M10_optA_fixed_v2_best_chrf",
+  "n": 40,
+  "empty_pct": 0.0,
+  "avg_token_len": 21.475,
+  "unique_ratio": 1.0,
+  "greedy_beam_agree": 0.075,
+  "top_3_common": [
+    [
+      "Siku ya Jumatatu, wanasayansi kutoka Chuo Kikuu cha Chuo Kikuu cha Kuandaa utekelezaji wa uhifadhi mpya wa utambuzi ambao unaweza kugundua aina fulani ya seli: aina ndogo ya chip hiyo inaweza kupikwa kutoka kwa kiwango cha wino wa wino wa wino wa wino wa wino.",
+      1
+    ],
+    [
+      "Leadoma watafiti wanaweza kuleta mhariri wa saratani za mapema, utunzaji wa kansa za UKIMWI, na kwa wagonjwa wa hali ya chini katika nchi za chini, ambapo viwango vya kudumu ambapo viwango vya kuishi kwa magonjwa kama vile saratani inaweza kuwa nchi hizo za urithi.",
+      1
+    ],
+    [
+      "Jaribio kubwa la Gli lilianguka kwenye barabara iliyoanguka karibu saa 9 na saa 930 (kupakia) na kuchukua picha za uwanja wa ndege, kufunga ndege kwenye ndege ya uwanja wa ndege.",
+      1
+    ]
+  ],
+  "health_gate_passed": true,
+  "fail_reasons": []
+}
